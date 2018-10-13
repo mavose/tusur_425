@@ -1,4 +1,4 @@
-What do you like more?
+MWhat do you like more?
 1. php
 2. C++
 3. C#
@@ -8,4 +8,7 @@ What do you like more?
 
 //Your answer
 //example: Масляев - 6
-Mikhailov - 6
+
+Сапожников - 4
+Мокин - 2
+Михайлов - 6
