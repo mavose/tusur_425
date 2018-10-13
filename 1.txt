@@ -8,4 +8,6 @@ What do you like more?
 
 //Your answer
 //example: Масляев - 6
+
+Сапожников - 4
 Мокин - 2
