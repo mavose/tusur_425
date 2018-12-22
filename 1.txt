@@ -6,7 +6,8 @@
 5. Python
 6. other
 
-Python
+//Your answer
+//example: Масляев - 6
 
 Сапожников - 4
 Мокин - 2
